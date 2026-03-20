@@ -1,6 +1,6 @@
-[![DOI](https://zenodo.org)](https://doi.org)
+<a href="https://doi.org"><img src="https://zenodo.org" alt="DOI"></a>
 
-# Aquí empieza mi título
+# Mi Proyecto
 
 
 Mission Key Observable Symmetron-Vector Pre-
