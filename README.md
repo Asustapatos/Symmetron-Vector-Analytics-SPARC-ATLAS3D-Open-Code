@@ -1,10 +1,6 @@
 [![DOI](https://zenodo.org)](https://doi.org)
 
 
-
-# Mi Proyecto
-
-
 Mission Key Observable Symmetron-Vector Pre-
 diction
 
